@@ -1,0 +1,204 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    color: #c8c8c8;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    line-height: 1.5em; 
+    height: 100%;
+  background: black;
+    background-repeat: no-repeat;
+    background-position: top;
+	
+	background-size: 100%;
+}
+#templatemo_header_wrapper {
+    width: 100%;
+    height:130px;
+   background: linear-gradient(270deg, rgb(171, 180, 31), rgb(6, 6, 6));
+}
+
+#templatemo_header { 
+    width: 800px;
+    height: 300px;
+    margin: 0 auto;
+    background: url(../images/templatemo_header.jpg) no-repeat center top;
+}
+#header h1 { display: block; width: 500px; margin: 0 auto; padding: 0; }
+#header h1 a { text-decoration: none;}
+
+#templatemo_footer_wrapper {
+    width:100%;
+    
+}
+
+#templatemo_footer {
+    margin-bottom: 0px;
+    padding: 20px 10px;
+    margin: 0 auto;
+    text-align: center;
+	background: linear-gradient(270deg, rgb(171, 180, 31), rgb(6, 6, 6));
+
+}
+.themeA{
+    color: white;
+    font-size: 32px;
+    letter-spacing: 3px;
+}
+.themeA_1{
+    color: white;
+    font-size: 32px;
+  
+}
+fieldset{
+	width: 650px;
+}
+legend{
+	font-size:18px;
+}
+.button {
+	display:inline-block;
+  position: relative;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: -1px -1px #000;
+  width: 300px;
+  height: 100px;
+  outline: none;
+  background-color: #000;
+  /*background-image: linear-gradient(45deg, rgba(255,255,255,.0) 30%, rgba(255,255,255,.8), rgba(255,255,255,.0) 70%), radial-gradient(190% 100% at 50% 0%, rgba(255,255,255,.7) 0%, rgba(255,255,255,.5) 50%, rgba(0,0,0,0) 50%);*/
+  background-repeat: no-repeat;
+  background-size: 200% 100%, auto;
+  background-position: 200% 0, 0 0;
+  box-shadow: rgba(0,0,0,.3) 0 2px 5px;
+  background: linear-gradient(90deg, rgb(171, 180, 31), rgb(6, 6, 6) 73%);
+} 
+.button:active {
+  top: 1px;
+  box-shadow: none;
+}
+.button:hover {
+  transition: .5s linear;
+  background-position: -200% 0, 0 0;
+}
+a.green{
+border-radius: 14px;
+color: #fff;
+display:inline-block;
+width:400px;
+height:70px;
+font-family: Arial, Helvetica, sans-serif;
+padding:16px;
+padding-top:40px;
+margin: 20px auto;
+margin-right:20px;
+text-decoration: none;
+text-align:center;       
+}
+a.green {
+background-color: rgb( 33, 126, 74 );
+border: 1px solid rgb( 33, 126, 74 );
+font-size: 26px;
+}
+        
+a.green:hover {
+background-color: rgb( 75, 183, 141 );
+}
+			h4{
+                background-color: mediumvioletred;
+                font-size: 24px;
+                width: 1210px;
+                padding-top: 10px;
+                height: 30px;
+                color: white;
+            }
+            #z1{
+                font-size: 18px;
+                width: 1205px;
+                height: 100px;
+                resize: none;
+            }
+            #z2{                
+                font-size: 18px;
+                width: 800px;
+                height: 150px;
+                resize: none;
+            }
+			 #z3{                
+                font-size: 18px;
+                width: 1205px;
+                height: 150px;
+                resize: none;
+            }
+			 #z4{                
+                font-size: 18px;
+                width: 1205px;
+                height: 100px;
+                resize: none;
+            }
+            #tasks{
+                border: 2px solid black;
+                width: 800px;
+            }
+            #img{
+                border: 2px solid black;
+				width:800px;
+            }
+			
+            .smallimg{
+                border: 2px solid black;
+                width: 800px;
+            }
+			.smallimg1{
+                border: 2px solid black;
+                width: 800px;
+				height:500px;
+            }
+            .whiteH1{
+                color: white;
+				font-size:40px;
+            }
+			
+            .h1{
+                color: red;
+            }
+			textarea{
+				background-color:white;
+				color:black;
+				text-align:center;
+			}
+			a.green_1{
+border-radius: 14px;
+color: #fff;
+display:inline-block;
+width:200px;
+height:30px;
+font-family: Arial, Helvetica, sans-serif;
+padding:16px;
+padding-top:30px;
+margin: 20px auto;
+margin-right:20px;
+text-decoration: none;
+text-align:center;       
+}
+.homeimg{
+	width:80px;
+	height:80px;
+	position:absolute;
+	top:20px;
+}
+a.green_1 {
+background-color: rgb( 33, 126, 74 );
+border: 1px solid rgb( 33, 126, 74 );
+font-size: 20px;
+}
+        
+a.green_1:hover {
+background-color: rgb( 75, 183, 141 );
+}
+p {
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 1.1;
+}
